@@ -1,0 +1,383 @@
+<file_created time="Wed Feb 05 11:25:07 PST 2014">
+<command_run time="Wed Feb 05 11:25:29 PST 2014">pickAFile()></command_run>
+<command_run time="Wed Feb 05 11:26:09 PST 2014">makePicture(path)></command_run>
+<command_run time="Wed Feb 05 11:26:35 PST 2014">path = "C:\\Users\\james_000\\Pictures\\Slowpoke.jpg"></command_run>
+<command_run time="Wed Feb 05 11:26:42 PST 2014">makePicture(path)></command_run>
+<command_run time="Wed Feb 05 11:27:16 PST 2014">pic = makePicture(path)></command_run>
+<command_run time="Wed Feb 05 11:27:19 PST 2014">show(pic)></command_run>
+<command_run time="Wed Feb 05 11:28:40 PST 2014">pixels = getPixels(pic)></command_run>
+<command_run time="Wed Feb 05 11:28:54 PST 2014">setColor(pixels[0], black)></command_run>
+<command_run time="Wed Feb 05 11:29:11 PST 2014">setColor(pixels[2], black)></command_run>
+<command_run time="Wed Feb 05 11:29:22 PST 2014">setColor(pixels[4], black)></command_run>
+<command_run time="Wed Feb 05 11:29:26 PST 2014">repaint(pic)></command_run>
+<menu_button time="Wed Feb 05 11:42:12 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 11:42:41 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 11:42:51 PST 2014">showBothPics()></command_run>
+<command_run time="Wed Feb 05 11:43:29 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 11:43:34 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 11:43:34 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 11:43:37 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 11:44:29 PST 2014">getDuration</menu_button>
+<menu_button time="Wed Feb 05 11:45:03 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Wed Feb 05 12:02:26 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:02:26 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:02:28 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:03:11 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:03:11 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:03:15 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:03:23 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 05 12:03:27 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:03:27 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:03:30 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:03:35 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:03:35 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:03:38 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:04:15 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:04:15 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:04:17 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:04:27 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:04:27 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:04:29 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:05:29 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:05:29 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:05:31 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:08:50 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:08:50 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:08:52 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:09:06 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 05 12:09:16 PST 2014">Picture Tool...</menu_button>
+<menu_button time="Wed Feb 05 12:09:28 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Feb 05 12:09:28 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Wed Feb 05 12:09:30 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 05 12:09:33 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:10:15 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 05 12:10:43 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:10:55 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:10:55 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:10:58 PST 2014">main()></command_run>
+<command_run time="Wed Feb 05 12:14:19 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:14:32 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:14:32 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:14:34 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:14:46 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:14:46 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:14:48 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:26:40 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:26:40 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:26:44 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 12:28:27 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 12:28:27 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 12:28:30 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 13:29:13 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 13:29:13 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 13:29:15 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 13:30:49 PST 2014">Options</menu_button>
+<menu_button time="Wed Feb 05 13:30:56 PST 2014">Options</menu_button>
+<menu_button time="Wed Feb 05 14:02:52 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 05 14:02:55 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 14:23:36 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:23:36 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Wed Feb 05 14:24:01 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:24:01 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Wed Feb 05 14:24:28 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:24:28 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 14:24:30 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 14:25:11 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:25:11 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 14:25:14 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 14:25:59 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:25:59 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 14:26:02 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 14:30:32 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:30:32 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 14:30:34 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 14:31:02 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:31:02 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 14:31:03 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 14:57:54 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:57:54 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 14:57:56 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 14:59:04 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 14:59:04 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 14:59:06 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 15:00:03 PST 2014">repaint</menu_button>
+<menu_button time="Wed Feb 05 15:01:19 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 15:01:19 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Wed Feb 05 15:01:19 PST 2014">Load Program</menu_button>
+<command_run time="Wed Feb 05 15:01:24 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 15:03:52 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 15:03:52 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 15:03:54 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 15:04:47 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 15:04:47 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 15:04:49 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 15:11:10 PST 2014">duplicatePicture</menu_button>
+<menu_button time="Wed Feb 05 15:14:37 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 15:14:37 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 15:14:39 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 15:16:31 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 15:16:31 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 15:16:33 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 15:16:53 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 05 15:16:53 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Wed Feb 05 15:16:55 PST 2014">main()></command_run>
+<menu_button time="Wed Feb 05 15:53:18 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Feb 05 15:53:18 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Wed Feb 05 15:53:22 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Feb 05 15:53:22 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+<file_opened time="Mon Feb 10 11:56:26 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_opened>
+<menu_button time="Mon Feb 10 11:56:28 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 11:56:31 PST 2014">main></command_run>
+<command_run time="Mon Feb 10 11:56:35 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 12:01:47 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 12:01:47 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 12:01:49 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 12:04:28 PST 2014">Save Program</menu_button>
+<file_saved time="Mon Feb 10 12:04:28 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 13:48:16 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 13:48:18 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:09:40 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:09:40 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:09:49 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:10:27 PST 2014">Stop</menu_button>
+<menu_button time="Mon Feb 10 14:10:52 PST 2014">Load Program</menu_button>
+<menu_button time="Mon Feb 10 14:11:03 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 14:11:07 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:15:13 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:15:13 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:15:17 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:16:04 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:16:04 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:16:06 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:16:35 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:16:35 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:16:38 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:19:02 PST 2014">Load Program</menu_button>
+<menu_button time="Mon Feb 10 14:19:14 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 14:19:17 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:22:29 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:22:29 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:22:32 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:25:49 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:25:49 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:25:51 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:26:01 PST 2014">Stop</menu_button>
+<menu_button time="Mon Feb 10 14:26:04 PST 2014">Load Program</menu_button>
+<menu_button time="Mon Feb 10 14:26:10 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 14:26:12 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:28:08 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:28:08 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:28:15 PST 2014">main()></command_run>
+<command_run time="Mon Feb 10 14:29:02 PST 2014">1></command_run>
+<command_run time="Mon Feb 10 14:29:05 PST 2014">1></command_run>
+<command_run time="Mon Feb 10 14:29:05 PST 2014">></command_run>
+<command_run time="Mon Feb 10 14:29:06 PST 2014">></command_run>
+<command_run time="Mon Feb 10 14:29:06 PST 2014">></command_run>
+<menu_button time="Mon Feb 10 14:29:07 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 14:29:11 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:31:14 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:31:14 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:31:17 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:32:01 PST 2014">Load Program</menu_button>
+<menu_button time="Mon Feb 10 14:34:35 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 14:34:38 PST 2014">main()></command_run>
+<command_run time="Mon Feb 10 14:35:13 PST 2014">user_choice></command_run>
+<menu_button time="Mon Feb 10 14:35:33 PST 2014">Load Program</menu_button>
+<menu_button time="Mon Feb 10 14:37:20 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:37:20 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:37:22 PST 2014">main()></command_run>
+<command_run time="Mon Feb 10 14:37:49 PST 2014">1></command_run>
+<command_run time="Mon Feb 10 14:37:51 PST 2014">2></command_run>
+<command_run time="Mon Feb 10 14:37:56 PST 2014">3></command_run>
+<command_run time="Mon Feb 10 14:37:56 PST 2014">1></command_run>
+<command_run time="Mon Feb 10 14:37:57 PST 2014">2></command_run>
+<command_run time="Mon Feb 10 14:37:58 PST 2014">31></command_run>
+<menu_button time="Mon Feb 10 14:38:14 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 14:38:20 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:38:38 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:38:38 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:38:40 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:40:16 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 14:40:31 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:43:05 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:43:05 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:43:07 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:45:00 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 14:45:08 PST 2014">main()></command_run>
+<command_run time="Mon Feb 10 14:45:38 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:46:04 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:46:04 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:46:07 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:47:18 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:47:18 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:47:21 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:50:30 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:50:30 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 14:51:40 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:51:40 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:51:42 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:53:16 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:53:16 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:53:18 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:54:29 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:54:29 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:54:32 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:55:28 PST 2014">requestString</menu_button>
+<menu_button time="Mon Feb 10 14:56:12 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:56:12 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:56:14 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:56:37 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 14:56:37 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 14:56:45 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 14:57:15 PST 2014">printNow</menu_button>
+<menu_button time="Mon Feb 10 14:57:42 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon Feb 10 15:00:54 PST 2014">Save Program</menu_button>
+<file_saved time="Mon Feb 10 15:00:54 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 15:09:11 PST 2014">Load Program</menu_button>
+<command_run time="Mon Feb 10 15:09:14 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 15:23:44 PST 2014">repaint</menu_button>
+<menu_button time="Mon Feb 10 15:24:17 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 15:24:17 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 15:24:22 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 15:26:11 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon Feb 10 15:55:47 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 15:55:47 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 15:55:51 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 15:56:04 PST 2014">Save Program</menu_button>
+<file_saved time="Mon Feb 10 15:56:04 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+<file_opened time="Mon Feb 10 18:47:28 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_opened>
+<menu_button time="Mon Feb 10 19:07:20 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:07:20 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 19:07:22 PST 2014">main()></command_run>
+<command_run time="Mon Feb 10 19:07:48 PST 2014">main()></command_run>
+<command_run time="Mon Feb 10 19:10:29 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 19:11:28 PST 2014">Save Program</menu_button>
+<file_saved time="Mon Feb 10 19:11:28 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 19:20:03 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:20:03 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 19:20:05 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 19:20:57 PST 2014">writePictureTo</menu_button>
+<menu_button time="Mon Feb 10 19:22:43 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:22:43 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 19:22:45 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 19:24:14 PST 2014">setMediaPath</menu_button>
+<menu_button time="Mon Feb 10 19:25:08 PST 2014">pickAFolder</menu_button>
+<menu_button time="Mon Feb 10 19:25:29 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:25:29 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 19:25:31 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 19:26:47 PST 2014">writePictureTo</menu_button>
+<menu_button time="Mon Feb 10 19:27:11 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:27:11 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<command_run time="Mon Feb 10 19:27:13 PST 2014">main()></command_run>
+<menu_button time="Mon Feb 10 19:28:41 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon Feb 10 19:32:08 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:32:08 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 19:53:18 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:53:18 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 19:54:24 PST 2014">pickAFile</menu_button>
+<menu_button time="Mon Feb 10 19:54:39 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon Feb 10 19:54:44 PST 2014">pickAFile</menu_button>
+<menu_button time="Mon Feb 10 19:55:15 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon Feb 10 19:55:24 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:55:24 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 19:55:30 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:55:30 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 19:56:13 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:56:13 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 19:56:51 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:56:51 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 19:56:57 PST 2014">Load Program</menu_button>
+<file_saved time="Mon Feb 10 19:56:57 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Mon Feb 10 20:53:37 PST 2014">Save Program</menu_button>
+<file_saved time="Mon Feb 10 20:53:37 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+<file_opened time="Wed Feb 12 12:06:41 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_opened>
+<menu_button time="Wed Feb 12 12:06:56 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 12 13:00:48 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 12 13:02:05 PST 2014">Watcher</menu_button>
+<menu_button time="Wed Feb 12 13:02:11 PST 2014">Program Area + Interactions Area</menu_button>
+<menu_button time="Wed Feb 12 13:29:26 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 12 13:44:47 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 12 14:29:06 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 12 14:30:43 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 12 14:46:20 PST 2014">Save Program</menu_button>
+<file_saved time="Wed Feb 12 14:46:20 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+</file_created>
+<menu_button time="Wed Feb 12 14:53:26 PST 2014">Load Program</menu_button>
+<menu_button time="Wed Feb 12 15:03:37 PST 2014">Load Program</menu_button>
+<file_saved time="Wed Feb 12 15:03:37 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+<file_opened time="Mon Feb 24 14:34:50 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_opened>
+<file_saved time="Mon Feb 24 14:57:39 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_saved>
+<file_opened time="Mon Mar 03 15:26:18 PST 2014">C:\Users\james_000\Documents\Jython Programs\PictureBlend</file_opened>
+<menu_button time="Mon Mar 03 15:26:26 PST 2014">Save Program As...</menu_button>
+<file_saved time="Mon Mar 03 15:26:35 PST 2014">C:\Users\james_000\Documents\GitHub\JES_Code\PictureBlend</file_saved>
+</file_created>
