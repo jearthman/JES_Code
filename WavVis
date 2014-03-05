@@ -1,0 +1,34 @@
+#insert abstract here
+
+class MyWav:
+  #initialize the class with a filepath to begin with
+  def __init__(self,filepath):
+    self.fp = filepath
+    
+  def my_sound(self):
+    return makeSound(self.fp)
+    
+  def my_sound_samples(sound):
+    return getSamples(sound)
+  #laststatement
+  
+class MyMovie:
+  movie = makeMovie()
+  
+  def __init__(self, sampvalues):
+    self.sv = sampvalues
+    
+  #def pixel_popper(self):
+  #class stuff
+
+def main():
+  sampvalues = []
+  #initialize object with a file path
+  mywav = MyWav(pickAFile())
+  
+  samples = mywav.my_sound_samples(mywav.my_sound())
+  
+  for eachsample in samples:
+    sampvalues.append(getSampleValue(eachsample))
+    
+  mymovie = MyMovie(sampvalues)
