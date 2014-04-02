@@ -1,34 +1,74 @@
-#insert abstract here
+#Wav Animator by James Earthman
+#2/26/2013
+#This program takes a WAV file and animates its frequencies.
+#The frequency samples are ripped through while each sample's
+#data is plotted on movie frames. These frames are then compiled 
+#into a movie and the movie is saved in a chosen destination. 
+import shutil
 
 class MyWav:
   #initialize the class with a filepath to begin with
   def __init__(self,filepath):
     self.fp = filepath
-    
+  #The 'my_sound' method takes a filepath that was given to the class
+  #and returns a sound object  
   def my_sound(self):
     return makeSound(self.fp)
-    
-  def my_sound_samples(sound):
+  #The 'my_sound_samples' method takes a sound and returns a list of
+  #sound samples   
+  def my_sound_samples(self, sound):
     return getSamples(sound)
-  #laststatement
   
 class MyMovie:
-  movie = makeMovie()
-  
+
   def __init__(self, sampvalues):
     self.sv = sampvalues
-    
-  #def pixel_popper(self):
+  #The 'pixel_popper' method takes the list of sample values and plots
+  #the sample data onto movie frames. The frames are then appended into
+  #a movie object.    
+  def pixel_popper(self, samplerate):
+    #locals
+    height = 480
+    width = 640
+    movie = makeMovie()
+    movieframe = makeEmptyPicture(width, height)
+    counter = 0
+    #for loop goes through samples list
+    for index, sampvalue in enumerate(self.sv):
+      #if statement for smooth representation of the data in accordance to the width of
+      #the frame 
+      if (index % (len(self.sv) / width)) == 0:
+        height = 480
+        width = 640
+        movieframe = movieframe
+        red = makeColor(255, 0, 0)
+        addRectFilled(movieframe, counter, height - (sampvalue % height), 5, 5, red)
+        filename = os.path.join("C:\\Users\\james_000\\Pictures\\FrameDump", "pic%05d.jpg" % index)
+        writePictureTo(movieframe, filename)
+        addFrameToMovie(filename, movie)
+        counter = counter + 1
+    return movie
   #class stuff
 
 def main():
+  os.makedirs("C:\\Users\\james_000\\Pictures\\Framedump")
   sampvalues = []
   #initialize object with a file path
   mywav = MyWav(pickAFile())
-  
-  samples = mywav.my_sound_samples(mywav.my_sound())
-  
+  samplerate = getSamplingRate(mywav.my_sound())
+  #create an array of samples using the getSamples function in Jes
+  thesound = mywav.my_sound()
+  samples = mywav.my_sound_samples(thesound)
+  #create an array of sample values for each sample from the wav file
   for eachsample in samples:
     sampvalues.append(getSampleValue(eachsample))
-    
+  #initialize movie object with the sample valuesmakeMovie(
   mymovie = MyMovie(sampvalues)
+  themovie = mymovie.pixel_popper(samplerate)
+  moviepath = pickAFile()
+  writeAVI(themovie, moviepath, 60)
+  play(thesound)
+  shutil.rmtree('C:\\Users\\james_000\\Pictures\\Framedump')
+  print len(sampvalues)
+    
+main()
